@@ -74,10 +74,22 @@ const config = {
         items: [
           {
             type: "docSidebar",
-            sidebarId: "tutorialSidebar",
+            sidebarId: "feSidebar",
             position: "left",
-            label: "Tutorial",
+            label: "FE 공부 정리🍭",
           },
+          {
+            type: "docSidebar",
+            sidebarId: "beSidebar",
+            position: "left",
+            label: "BE 공부 정리🍭",
+          },
+          // {
+          //   type: "docSidebar",
+          //   sidebarId: "tutorialSidebar",
+          //   position: "left",
+          //   label: "Tutorial",
+          // },
           { to: "/blog", label: "Blog", position: "left" },
           {
             href: "https://github.com/facebook/docusaurus",
