@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_7_code_group_4_github_io=self.webpackChunk_7_code_group_4_github_io||[]).push([[1903],{1912:_=>{_.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Blog"}')}}]);
